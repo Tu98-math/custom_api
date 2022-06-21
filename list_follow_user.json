@@ -2,86 +2,86 @@
     "status": 200,
     "error_code": 1,
     "error_message": "successful",
-    "data": {
-      "total": 6,
-      "users": [
-        {
-            "image_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
-            "name": "Gia Cát Lượng",
-            "id": "@NgoaLong"
-        },
-        {
-            "image_url": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2019/02/14/tam-quoc-dien-nghia-noi-oan-ngan-nam-cua-chu-du.jpeg",
-            "name": "Châu Công Cẩn",
-            "id": "@ChuDu"
-        },
-        {
-            "image_url": "https://genk.mediacdn.vn/2018/2/23/2-1519373336491946259302.png",
-            "name": "Quan Vân Trường",
-            "id": "@QuanVu"
-        },
-        {
-            "image_url": "https://media1.nguoiduatin.vn/thumb_x600x600/media/luong-quoc-tiep/2019/12/12/tam-quoc-dien-nghia-ly-do-khien-nhieu-nguoi-da-lam-tuong-ve-mot-luu-bi-yeu-duoi-thieu-muu-tri3.jpg",
-            "name": "Lưu Huyền Đức",
-            "id": "@LuuBi"
-        },
-        {
-            "image_url": "https://image-us.24h.com.vn/upload/4-2019/images/2019-12-03/1575363771-ccb524d9c3c8bf568cb2492244d08b51.jpg",
-            "name": "Trương Dực Đức",
-            "id": "@TruongPhi"
-        },
-        {
-            "image_url": "https://afamilycdn.com/150157425591193600/2020/4/24/1b3954148a7d463bb61ad20865a0e7c5-1587727756992303350573.jpeg",
-            "name": "Tào Mạnh Đức",
-            "id": "@TaoThao"
-        },
-        {
-            "image_url": "https://lienquan.garena.vn/files/skin/01636074d1a9826c4db917dae38a7de25d2562df2144b.jpg",
-            "name": "Lữ Phụng Tiên",
-            "id": "@LuBo"
-        },
-        {
-            "image_url": "https://danviet.mediacdn.vn/2020/8/21/703-1597995690834497835991.jpg",
-            "name": "Tôn Quyền",
-            "id": "@NgoHau"
-        },
-        {
-            "image_url": "https://cdnmedia.thethaovanhoa.vn/Upload/3uPkfvAxvuOpUQrmKeiDaA/files/2019/02/B/08/dien3.jpg",
-            "name": "Ngụy Vân Trường",
-            "id": "@NguyDien"
-        },
-        {
-            "image_url": "https://danviet.mediacdn.vn/zoom/700_438/2020/4/21/1584762870438-thumbnail.jpg",
-            "name": "Hứa Chử",
-            "id": "@HoHau"
-        },
-        {
-          "image_url": "https://sohanews.sohacdn.com/2018/6/19/1-1529403503432123729209.jpg",
-          "name": "Mạnh Khởi",
-          "id": "@MaSieu"
-        },
-        {
+    "total": 6,
+    "users": [
+      {
           "image_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
-          "name": "Triệu Tử Long",
-          "id": "@TrieuVan"
-        },
-        {
-          "image_url": "https://genk.mediacdn.vn/2019/10/15/photo-1-15711123197151972161630.jpg",
-          "name": "Điêu Thuyền",
-          "id": "@DieuThuyen"
-        },
-        {
-          "image_url": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2020/07/18/tam-quoc-dien-nghia-tao-phi-da-chuan-bi-nhung-gi-de-cuop-ngoi-nha-han1.jpg",
-          "name": "Tào Phi",
-          "id": "@NguyVanDa"
-        },
-        {
-          "image_url": "http://media.doisongphapluat.com/695/2020/5/24/tam-quoc-chan-mat-01.jpeg",
-          "name": "Chân Mật",
-          "id": "@ChanCo"
-        }
-        
-      ]
-    }
+          "name": "Gia Cát Lượng",
+          "id": "@NgoaLong"
+      },
+      {
+          "image_url": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2019/02/14/tam-quoc-dien-nghia-noi-oan-ngan-nam-cua-chu-du.jpeg",
+          "name": "Châu Công Cẩn",
+          "id": "@ChuDu"
+      },
+      {
+          "image_url": "https://genk.mediacdn.vn/2018/2/23/2-1519373336491946259302.png",
+          "name": "Quan Vân Trường",
+          "id": "@QuanVu"
+      },
+      {
+          "image_url": "https://media1.nguoiduatin.vn/thumb_x600x600/media/luong-quoc-tiep/2019/12/12/tam-quoc-dien-nghia-ly-do-khien-nhieu-nguoi-da-lam-tuong-ve-mot-luu-bi-yeu-duoi-thieu-muu-tri3.jpg",
+          "name": "Lưu Huyền Đức",
+          "id": "@LuuBi"
+      },
+      {
+          "image_url": "https://image-us.24h.com.vn/upload/4-2019/images/2019-12-03/1575363771-ccb524d9c3c8bf568cb2492244d08b51.jpg",
+          "name": "Trương Dực Đức",
+          "id": "@TruongPhi"
+      },
+      {
+          "image_url": "https://afamilycdn.com/150157425591193600/2020/4/24/1b3954148a7d463bb61ad20865a0e7c5-1587727756992303350573.jpeg",
+          "name": "Tào Mạnh Đức",
+          "id": "@TaoThao"
+      },
+      {
+          "image_url": "https://lienquan.garena.vn/files/skin/01636074d1a9826c4db917dae38a7de25d2562df2144b.jpg",
+          "name": "Lữ Phụng Tiên",
+          "id": "@LuBo"
+      },
+      {
+          "image_url": "https://danviet.mediacdn.vn/2020/8/21/703-1597995690834497835991.jpg",
+          "name": "Tôn Quyền",
+          "id": "@NgoHau"
+      },
+      {
+          "image_url": "https://cdnmedia.thethaovanhoa.vn/Upload/3uPkfvAxvuOpUQrmKeiDaA/files/2019/02/B/08/dien3.jpg",
+          "name": "Ngụy Vân Trường",
+          "id": "@NguyDien"
+      },
+      {
+          "image_url": "https://danviet.mediacdn.vn/zoom/700_438/2020/4/21/1584762870438-thumbnail.jpg",
+          "name": "Hứa Chử",
+          "id": "@HoHau"
+      },
+      {
+        "image_url": "https://sohanews.sohacdn.com/2018/6/19/1-1529403503432123729209.jpg",
+        "name": "Mạnh Khởi",
+        "id": "@MaSieu"
+      },
+      {
+        "image_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+        "name": "Triệu Tử Long",
+        "id": "@TrieuVan"
+      },
+      {
+        "image_url": "https://genk.mediacdn.vn/2019/10/15/photo-1-15711123197151972161630.jpg",
+        "name": "Điêu Thuyền",
+        "id": "@DieuThuyen"
+      },
+      {
+        "image_url": "https://media1.nguoiduatin.vn/media/luong-quoc-tiep/2020/07/18/tam-quoc-dien-nghia-tao-phi-da-chuan-bi-nhung-gi-de-cuop-ngoi-nha-han1.jpg",
+        "name": "Tào Phi",
+        "id": "@NguyVanDa"
+      },
+      {
+        "image_url": "http://media.doisongphapluat.com/695/2020/5/24/tam-quoc-chan-mat-01.jpeg",
+        "name": "Chân Mật",
+        "id": "@ChanCo"
+      }
+      
+    ]
+    
+      
   }
   
