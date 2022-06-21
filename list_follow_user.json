@@ -2,7 +2,7 @@
     "status": 200,
     "error_code": 1,
     "error_message": "successful",
-    "data": {
+    "follow_users": {
       "total": 6,
       "users": [
         {
