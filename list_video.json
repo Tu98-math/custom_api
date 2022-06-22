@@ -4,9 +4,6 @@
     "error_message": "successful",
     "data": {
       "total": 6,
-      "following": 666,
-      "fans": 6472000,
-      "posts": 512,
       "videos": [
         {
           "path": "assets/videos/video_0.mp4",
