@@ -9,7 +9,7 @@
       "posts": 512,
       "videos": [
         {
-          "video": "assets/videos/video_0.mp4",
+          "path": "assets/videos/video_0.mp4",
           "likes": 12332,
           "comments": 5634,
           "author_name": "Unicode 2003",
@@ -23,7 +23,7 @@
           }
         },
         {
-          "video": "assets/videos/video_1.mp4",
+          "path": "assets/videos/video_1.mp4",
           "likes": 4566,
           "comments": 56,
           "author_name": "Unicode 2003",
@@ -37,7 +37,7 @@
           }
         },
         {
-          "video": "assets/videos/video_2.mp4",
+          "path": "assets/videos/video_2.mp4",
           "likes": 355,
           "comments": 32,
           "author_name": "Unicode 2003",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "video": "assets/videos/video_3.mp4",
+          "path": "assets/videos/video_3.mp4",
           "likes": 3453424,
           "comments": 563234,
           "author_name": "Unicode 2003",
@@ -65,7 +65,7 @@
           }
         },
         {
-          "video": "assets/videos/video_4.mp4",
+          "path": "assets/videos/video_4.mp4",
           "likes": 1231343,
           "comments": 5634,
           "author_name": "Unicode 2003",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "video": "assets/videos/video_5.mp4",
+          "path": "assets/videos/video_5.mp4",
           "likes": 16783,
           "comments": 4,
           "author_name": "Unicode 2003",
@@ -93,7 +93,7 @@
           }
         },
         {
-          "video": "assets/videos/video_6.mp4",
+          "path": "assets/videos/video_6.mp4",
           "likes": 16783,
           "comments": 4,
           "author_name": "Unicode 2003",
@@ -109,4 +109,3 @@
       ]
     }
   }
-  
