@@ -1,0 +1,112 @@
+{
+    "status": 200,
+    "error_code": 1,
+    "error_message": "successful",
+    "data": {
+      "total": 6,
+      "following": 666,
+      "fans": 6472000,
+      "posts": 512,
+      "videos": [
+        {
+          "video": "assets/videos/video_0.mp4",
+          "likes": 12332,
+          "comments": 5634,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Như Ngày Hôm Qua",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_1.mp4",
+          "likes": 4566,
+          "comments": 56,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Chúng ta của hiện tại",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_2.mp4",
+          "likes": 355,
+          "comments": 32,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Cơn mưa ngang qua",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_3.mp4",
+          "likes": 3453424,
+          "comments": 563234,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Em của ngày hôm qua",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_4.mp4",
+          "likes": 1231343,
+          "comments": 5634,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Thương em",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_5.mp4",
+          "likes": 16783,
+          "comments": 4,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Remember",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        },
+        {
+          "video": "assets/videos/video_6.mp4",
+          "likes": 16783,
+          "comments": 4,
+          "author_name": "Unicode 2003",
+          "avatar_url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+          "music": {
+            "id" : 1,
+            "name": "Buông đôi tay nhau ra",
+            "author": "Sơn Tùng M-TP",
+            "category": "Nhạc trẻ",
+            "url": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg"
+          }
+        }
+      ]
+    }
+  }
+  
