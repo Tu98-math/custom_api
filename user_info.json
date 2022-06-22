@@ -1,0 +1,13 @@
+{
+    "status": 200,
+    "error_code": 1,
+    "error_message": "successful",
+    "data": {
+        "name": "Mohsen Papa",
+        "url_image": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
+        "following": 666,
+        "fans": 647200,
+        "posts": 512
+    }
+  }
+  
