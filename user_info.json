@@ -7,7 +7,10 @@
         "url_image": "https://phamlaw.com/wp-content/uploads/2015/01/gia-cat-luong.jpg",
         "following": 666,
         "fans": 647200,
-        "posts": 512
+        "posts": 512,
+        "status": [
+          "hihi",
+          "haha"
+        ]
     }
   }
-  
